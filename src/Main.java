@@ -11,7 +11,7 @@ public class Main {
         double total;
         char currency = '$';
 
-        System.out.print("What item would you like to by?: ");
+        System.out.print("What item would you like to buy?: ");
         item = scanner.nextLine();
 
         System.out.print("What is the price for each?: " );
